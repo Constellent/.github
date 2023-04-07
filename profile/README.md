@@ -7,6 +7,11 @@
 > Of course, we'll have a little bit of web.  
 > html + css + javascript | php | node.js | vue.js  
   
+# Script
+Neverlose🔗 https://market.neverlose.cc/G1WfAn  
+Nixware/Aimware🔗 https://discord.gg/mCs9puAAFT  
+
 # URL
 🔗 https://constellent.cc  
 🔗 https://steamcommunity.com/groups/constellent  
+🔗 https://discord.gg/mCs9puAAFT
