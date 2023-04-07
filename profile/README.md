@@ -4,7 +4,9 @@
 # Hello!👋
 > We develop the csgo cheat script.  
   
-> Of course, we'll have a little bit of web (html + css + js / php).  
-
+> Of course, we'll have a little bit of web.  
+> html + css + javascript | php | node.js | vue.js  
+  
+# URL
 🔗 https://constellent.cc  
 🔗 https://steamcommunity.com/groups/constellent  
